@@ -437,7 +437,7 @@ def main():
         * power
     ) / (power - 1)
 
-    emi_text = f"Monthly EMI           : ₹{expected_emi:.2f}"
+    emi_text = f"Monthly EMI: ₹{expected_emi:.2f}"
 
     if emi_text in output:
 
