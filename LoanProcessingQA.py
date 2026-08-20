@@ -166,7 +166,7 @@ def main():
             "Invalid tenure",
             ("T016", 30, 50000, 100000, 780,
              "Salaried", 500000, 0),
-            "Loan tenure must be greater than zero."
+            "Loan tenure must be greater than zero..."
         )
     ]
 
