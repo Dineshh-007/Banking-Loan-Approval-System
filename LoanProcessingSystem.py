@@ -20,7 +20,7 @@ def main():
     # --------------------------------------------------
 
     if len(sys.argv) != 9:
-        print("ERROR: Invalid number of inputs.")
+        print("ERROR: Invalid number of inputs...Please enter the correct inputs")
         print()
         print("Usage:")
         print(
